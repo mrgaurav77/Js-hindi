@@ -25,4 +25,3 @@ let isLoggedIn = false
 
 console.log(typeof age); //output number
 console.log(typeof null); //output object
-
