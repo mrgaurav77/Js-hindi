@@ -30,3 +30,10 @@ const myFunction = function(){
 }
 
 console.log( typeof anotherId);
+
+
+//************************************************************************************************* */
+
+
+// stack (primitive) , heap ( non-primitive)
+
