@@ -24,8 +24,9 @@ console.log(Array.isArray("Hitesh"))
 console.log(Array.from("Hitesh"));
 console.log(Array.from({name:"Hietsh"}))  //interesting
 
-let scpre1 = 100
-let scpre2 = 200
-let scpre3 = 300
+let score1 = 100
+let score2 = 200
+let score3 = 300
 
-console.log(Array.of(scpre1,scpre2,scpre3));
+console.log(Array.of(score1,score2,score3));
+ 
